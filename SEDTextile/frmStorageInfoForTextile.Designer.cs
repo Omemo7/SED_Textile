@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.ctrMyDataGridView1 = new GPACalculator.ctrMyDataGridView();
+            this.ctrMyDataGridView1 = new SEDTextile.ctrMyDataGridView();
             this.gbTextileInfo = new System.Windows.Forms.GroupBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -143,7 +143,7 @@
 
         #endregion
 
-        private GPACalculator.ctrMyDataGridView ctrMyDataGridView1;
+        private SEDTextile.ctrMyDataGridView ctrMyDataGridView1;
         private System.Windows.Forms.GroupBox gbTextileInfo;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;

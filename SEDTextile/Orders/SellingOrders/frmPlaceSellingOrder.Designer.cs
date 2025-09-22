@@ -36,7 +36,7 @@
             this.btnPlaceOrder = new System.Windows.Forms.Button();
             this.btnChooseItems = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
-            this.ctrMyDataGridView1 = new GPACalculator.ctrMyDataGridView();
+            this.ctrMyDataGridView1 = new SEDTextile.ctrMyDataGridView();
             this.mycbDeliveryMethod = new SEDTextile.ctrMyComboBox();
             this.mycbStores = new SEDTextile.ctrMyComboBox();
             this.label3 = new System.Windows.Forms.Label();
@@ -269,7 +269,7 @@
         private ctrMyComboBox mycbDeliveryMethod;
         private System.Windows.Forms.Button btnPlaceOrder;
         private System.Windows.Forms.Button btnChooseItems;
-        private GPACalculator.ctrMyDataGridView ctrMyDataGridView1;
+        private SEDTextile.ctrMyDataGridView ctrMyDataGridView1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.NumericUpDown nudTotalPrice;

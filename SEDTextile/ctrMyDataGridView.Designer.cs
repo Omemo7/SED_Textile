@@ -1,4 +1,4 @@
-﻿namespace GPACalculator
+﻿namespace SEDTextile
 {
     partial class ctrMyDataGridView
     {

@@ -39,7 +39,7 @@
             this.nudPaidPrice = new System.Windows.Forms.NumericUpDown();
             this.label4 = new System.Windows.Forms.Label();
             this.cbFactory = new SEDTextile.ctrMyComboBox();
-            this.ctrMyDataGridView1 = new GPACalculator.ctrMyDataGridView();
+            this.ctrMyDataGridView1 = new SEDTextile.ctrMyDataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.nudTotalPrice)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudPaidPrice)).BeginInit();
             this.SuspendLayout();
@@ -209,7 +209,7 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.DateTimePicker dtpEstimatedArrivalDate;
-        private GPACalculator.ctrMyDataGridView ctrMyDataGridView1;
+        private SEDTextile.ctrMyDataGridView ctrMyDataGridView1;
         private ctrMyComboBox cbFactory;
         private System.Windows.Forms.Button btnChoose;
         private System.Windows.Forms.Label label2;

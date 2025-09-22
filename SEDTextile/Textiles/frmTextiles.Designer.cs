@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.ctrMyDataGridView1 = new GPACalculator.ctrMyDataGridView();
+            this.ctrMyDataGridView1 = new SEDTextile.ctrMyDataGridView();
             this.btnAdd = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -87,7 +87,7 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private GPACalculator.ctrMyDataGridView ctrMyDataGridView1;
+        private SEDTextile.ctrMyDataGridView ctrMyDataGridView1;
         private System.Windows.Forms.Button btnAdd;
     }
 }

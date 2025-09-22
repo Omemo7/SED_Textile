@@ -37,8 +37,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.nudQuantity = new System.Windows.Forms.NumericUpDown();
-            this.ctrMyDataGridViewChosenItems = new GPACalculator.ctrMyDataGridView();
-            this.ctrMyDataGridViewItems = new GPACalculator.ctrMyDataGridView();
+            this.ctrMyDataGridViewChosenItems = new SEDTextile.ctrMyDataGridView();
+            this.ctrMyDataGridViewItems = new SEDTextile.ctrMyDataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.nudQuantity)).BeginInit();
             this.SuspendLayout();
             // 
@@ -203,7 +203,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.NumericUpDown nudQuantity;
-        private GPACalculator.ctrMyDataGridView ctrMyDataGridViewItems;
-        private GPACalculator.ctrMyDataGridView ctrMyDataGridViewChosenItems;
+        private SEDTextile.ctrMyDataGridView ctrMyDataGridViewItems;
+        private SEDTextile.ctrMyDataGridView ctrMyDataGridViewChosenItems;
     }
 }

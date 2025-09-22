@@ -30,7 +30,7 @@
         {
             this.btnChooseVariants = new System.Windows.Forms.Button();
             this.btnAddVariants = new System.Windows.Forms.Button();
-            this.ctrMyDataGridView1 = new GPACalculator.ctrMyDataGridView();
+            this.ctrMyDataGridView1 = new SEDTextile.ctrMyDataGridView();
             this.SuspendLayout();
             // 
             // btnChooseVariants
@@ -87,7 +87,7 @@
 
         #endregion
 
-        private GPACalculator.ctrMyDataGridView ctrMyDataGridView1;
+        private SEDTextile.ctrMyDataGridView ctrMyDataGridView1;
         private System.Windows.Forms.Button btnChooseVariants;
         private System.Windows.Forms.Button btnAddVariants;
     }

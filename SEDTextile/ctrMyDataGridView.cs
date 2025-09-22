@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace GPACalculator
+namespace SEDTextile
 {
     public partial class ctrMyDataGridView : UserControl
     {
