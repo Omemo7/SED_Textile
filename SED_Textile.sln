@@ -1,9 +1,39 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36310.24 d17.14
+VisualStudioVersion = 17.14.36310.24
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDTextileBusiness", "..\SEDTextileBusiness\SEDTextileBusiness.csproj", "{CD1B4228-0370-467F-B33D-0F0501372BD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDTextileDataAccess", "..\SEDTextileDataAccess\SEDTextileDataAccess.csproj", "{3DDC3E34-6C7E-4D01-8171-F4006631EC16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDTextileDTOs", "..\SEDTextileDTOs\SEDTextileDTOs.csproj", "{2DBA55ED-EFE8-44DE-A6BC-11F89A01BFA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDTextile", "..\SEDTextile\SEDTextile.csproj", "{814CEA0C-9DAE-404F-B41C-F843026666BF}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD1B4228-0370-467F-B33D-0F0501372BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1B4228-0370-467F-B33D-0F0501372BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1B4228-0370-467F-B33D-0F0501372BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1B4228-0370-467F-B33D-0F0501372BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DDC3E34-6C7E-4D01-8171-F4006631EC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDC3E34-6C7E-4D01-8171-F4006631EC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDC3E34-6C7E-4D01-8171-F4006631EC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDC3E34-6C7E-4D01-8171-F4006631EC16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DBA55ED-EFE8-44DE-A6BC-11F89A01BFA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DBA55ED-EFE8-44DE-A6BC-11F89A01BFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DBA55ED-EFE8-44DE-A6BC-11F89A01BFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DBA55ED-EFE8-44DE-A6BC-11F89A01BFA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{814CEA0C-9DAE-404F-B41C-F843026666BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814CEA0C-9DAE-404F-B41C-F843026666BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814CEA0C-9DAE-404F-B41C-F843026666BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814CEA0C-9DAE-404F-B41C-F843026666BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
